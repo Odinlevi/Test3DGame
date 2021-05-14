@@ -15,14 +15,6 @@ public class ThirdPersonMovement : MonoBehaviour
 
     private float turnSmoothVelocity;
 
-    //public AnimatorHandler animatorHandler;
-
-    void Start()
-    {
-        // animatorHandler = GetComponentInChildren<AnimatorHandler>();
-        // animatorHandler.Initialize();
-    }
-
     // Update is called once per frame
     void Update()
     {
